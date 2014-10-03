@@ -1,7 +1,3 @@
-// Really nice job, guys! Very clean code, it works, it's tested, and it reads easy.
-
-// 60/60
-
 /* 
 Sadruddin Saleem, William Silva
 Professor Lerner

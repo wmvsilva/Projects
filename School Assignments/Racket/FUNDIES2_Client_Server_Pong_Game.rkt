@@ -1,6 +1,4 @@
 #|
-Perfect! 50/50
-
 Sarah Babski, William Silva
 Professor Lerner
 Fundamentals II (Honors)

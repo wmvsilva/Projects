@@ -1,10 +1,3 @@
-; Looks great. 50/50
-
-;;> Boxed World <25/25>
-    ;;> Single World <15/15>
-    ;;> Double World <10/10>
-;;> Quick Lists <25/25>
-
 #|
 Sarah Babski, William Silva
 Professor Lerner
