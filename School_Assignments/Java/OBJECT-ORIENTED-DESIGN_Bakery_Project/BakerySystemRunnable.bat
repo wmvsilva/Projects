@@ -1,0 +1,1 @@
+cls & java -jar BakerySystem.jar
